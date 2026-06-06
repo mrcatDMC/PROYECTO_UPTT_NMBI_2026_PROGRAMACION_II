@@ -1,5 +1,6 @@
 # PROYECTO_UPTT_NMBI_2026_PROGRAMACION_II
 Título del Proyecto: Plataforma Digital de Servicios Municipales
+
 Descripción General
 El objetivo es desarrollar una plataforma web moderna, intuitiva y segura que permita a los ciudadanos, empresas y funcionarios interactuar de forma digital con los servicios de la Alcaldía. Inspirada en la experiencia de usuario de la página del Banco de Venezuela, la plataforma destaca por su navegación clara, enfoque en el auto-servicio, altos estándares de seguridad y accesibilidad.
 
