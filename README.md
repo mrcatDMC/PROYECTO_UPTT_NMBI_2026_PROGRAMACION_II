@@ -8,8 +8,8 @@ La plataforma centralizará la información y los trámites en una base de datos
 
 Objetivo Principal
 Desarrollar un portal digital unificado que permita a los ciudadanos, empresas y funcionarios realizar de manera ágil y segura todos sus trámites y consultas con la Alcaldía, mejorando la eficiencia operativa, promoviendo la transparencia y elevando la calidad de los servicios públicos.
-Usuarios Clave
 
+Usuarios Clave
 Ciudadanos: Podrán acceder a servicios municipales, realizar trámites personales, consultar información y realizar gestiones de forma digital y autónoma.
 
 Empresas: Gestionarán permisos, licencias, pagos y demás requisitos municipales a través de la plataforma de manera eficiente.
