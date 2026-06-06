@@ -1,5 +1,5 @@
 # PROYECTO_UPTT_NMBI_2026_PROGRAMACION_II
-# Título del Proyecto: Plataforma Digital de Servicios Municipales
+# Plataforma Digital de Servicios Municipales
 
 # Descripción General
 
